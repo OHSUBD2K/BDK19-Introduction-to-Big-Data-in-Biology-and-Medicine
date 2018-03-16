@@ -6,7 +6,7 @@
 
 ## Module Number: BDK19
 
-**Module Title:** Introduction to Big Data in Biology and Medicine
+**Module Title:** Replication, Validation And The Spectrum Of Reproducibility
 
 **Module Description:**
 
